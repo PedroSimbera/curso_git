@@ -11,3 +11,7 @@ duplicar
 testando a funcionalidade git diff
 
 teste
+
+teste
+
+teste
