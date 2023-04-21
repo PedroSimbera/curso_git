@@ -3,3 +3,6 @@ possibilidade
 de 
 entender 
 sobre fetch
+atualizando de outro repositorio para 
+acrescentar mais funcionalidade ao programa
+teste 2 com fetch
