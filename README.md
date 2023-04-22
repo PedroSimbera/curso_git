@@ -2,6 +2,7 @@
 
 Foi criado o repositório com a finalidade de aprender todas as principais funcionalidades do **GITHUB** e sobre o *controle de versões* utilizando o **GIT**.
 
+![Logo do git e github](img/gitgithub.png)
 ## Sobre o curso
 
 ### Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)
@@ -69,3 +70,4 @@ O curso atualmente é dividido em **10 seções**, a saber:
 * Kanban
 * Wiki
 * Outros
+
